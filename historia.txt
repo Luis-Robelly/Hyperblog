@@ -1,1 +1,2 @@
 Prueba primero proyecto del curso de GIT HUB en platzi
+Esta linea se agrego momento despues para verificar que se realicen cambios
